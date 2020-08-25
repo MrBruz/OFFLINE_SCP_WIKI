@@ -9,4 +9,8 @@ To make it as intuitive as possible, this runs a local webserver on your compute
 
 Also as youd expect this is very fast and is a good thing to have if you have slow internet.
 
-Instructions on how to use coming soon...
+# Instructions:
+
+OK so this is just a first upload so you guys can have a taste of this. Basically git clone this repo, install flask on python3 then do python3 scp.py and load up localhost:5000 in your Web browser. Currently scp series one works but I haven't converted the links and other stuff for the other series yet. Also before you get surprised this'll be about a 1gb download when you clone this as it comes with the main ~6000 scps downloaded with images. I would let you guys scrape the data yourself but this is a lot quicker and reduces stress on the scp wiki.
+
+Also one last thing if you notice any bugs or things that can be improved, please let me know in issues. And I'd appreciate even more if you provide code to fix said bug or implement a feature. 
